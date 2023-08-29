@@ -44,7 +44,6 @@ import com.refresh.pos.ui.sale.SaleFragment;
  * This UI loads 3 main pages (Inventory, Sale, Report)
  * Makes the UI flow by slide through pages using ViewPager.
  * 
- * @author Refresh Team
  *
  */
 @SuppressLint("NewApi")
