@@ -2,6 +2,7 @@ package com.refresh.pos.ui;
 
 import java.util.Locale;
 
+
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.app.ActionBar.Tab;
