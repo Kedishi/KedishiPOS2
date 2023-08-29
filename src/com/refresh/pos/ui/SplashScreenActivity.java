@@ -31,7 +31,6 @@ import com.refresh.pos.techicalservices.sale.SaleDaoAndroid;
  * This is the first activity page, core-app and database created here.
  * Dependency injection happens here.
  * 
- * @author Refresh Team
  * 
  */
 public class SplashScreenActivity extends Activity {
