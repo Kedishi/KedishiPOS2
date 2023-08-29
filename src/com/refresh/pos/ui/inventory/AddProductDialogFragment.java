@@ -79,6 +79,7 @@ public class AddProductDialogFragment extends DialogFragment {
 	/**
 	 * Construct a new 
 	 */
+	
 	private void initUI() {
 		scanButton.setOnClickListener(new View.OnClickListener() {
 			@Override
